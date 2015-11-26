@@ -1,0 +1,24 @@
+{
+  "name": "TwitSink",
+  "version": "0.1.0",
+  "description": "A store for the tweets scraped by TwitMonkey",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wu-lee/TwitSink.git"
+  },
+  "author": "Nick Stokoe",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wu-lee/TwitSink/issues"
+  },
+  "homepage": "https://github.com/wu-lee/TwitSink",
+  "devDependencies": {
+    "couchdb-push": "^2.2.2",
+    "glob": "^6.0.1",
+    "gulp": "^3.9.0"
+  }
+}
